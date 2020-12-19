@@ -1,0 +1,6 @@
+time:
+  day: 60
+  night: 60
+messages:
+  start_night: "noc sie zaczyna!"
+  end_night: "noc sie skonczyla!"

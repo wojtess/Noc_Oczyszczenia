@@ -1,0 +1,5 @@
+name: Noc_Oczyszczenia
+version: ${project.version}
+main: me.wojtess.noc_oczyszczenia.Noc_Oczyszczenia
+api-version: 1.16
+authors: [wojtess]
